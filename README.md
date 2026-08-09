@@ -1,6 +1,6 @@
 # Skill Scarcity Analysis
 
-This repository analyzes how scarce specific skills are in the labor market, using the Datamata Studios Skill Scarcity Index dataset. The analysis compares supply and demand for skills, and explores trends by duration, job postings, and skill categories. This project is free for anyone to modify, or use in any of your personal interests. This is my personal project that showcase my skills in data analysis using advanced data analytics.
+This repository analyzes how scarce specific skills are in the labor market, using the Datamata Studios Skill Scarcity Index dataset. The analysis compares supply and demand for skills, and explores trends by duration, job postings, and skill categories. This project is free for anyone to modify, or use in any of your personal interests. This is my personal project that showcases my skills in data analysis using advanced data analytics.
 
 The project contains a clear and concise step by step of my thought process when creating the project, which you can use as a reference when doing your very own personal projects. If you have inquiries or changes that you want to push, feel free to fork or direct message me on my socials.
 
