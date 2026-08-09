@@ -10,7 +10,7 @@ Visualization and Story: https://anthonyfalter.github.io/blog/posts/skill-scarci
 
 - `01_eda.ipynb` — exploratory data analysis and initial visualizations
 - `03_preprocessing.ipynb` — data cleaning, null value removal, and feature preparation for linear regression
-- `02_hypothesis_testing.ipynb` — linear regression modeling with scaled features and encoded categoricals
+- `02_hypothesis_testing.ipynb` — linear regression modeling with scaled features
 - `dataset/raw/skill-scarcity-index.csv` — original dataset source file
 - `dataset/processed/` — cleaned and transformed dataset outputs
 - `figures/` — visualizations generated from the analysis
