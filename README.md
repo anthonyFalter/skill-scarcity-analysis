@@ -4,6 +4,8 @@ This repository analyzes how scarce specific skills are in the labor market, usi
 
 The project contains a clear and concise step by step of my thought process when creating the project, which you can use as a reference when doing your very own personal projects. If you have inquiries or changes that you want to push, feel free to fork or direct message me on my socials.
 
+Visualization and Story: https://anthonyfalter.github.io/blog/posts/skill-scarcity/
+
 ## Contents
 
 - `01_eda.ipynb` — exploratory data analysis and initial visualizations
