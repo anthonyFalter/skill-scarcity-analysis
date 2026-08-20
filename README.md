@@ -52,9 +52,3 @@ cd skill-scarcity-analysis
 - `03_preprocessing.ipynb`
 - `02_hypothesis_testing.ipynb`
 
-## Notes
-
-- If you want to rerun the analysis, make sure the dataset file exists in `dataset/raw/`.
-- Save any generated plots to `figures/` and cleaned outputs to `dataset/processed/`.
-- Preprocessing drops rows with null values in `median_days_open` and `salary_premium_pct` for modeling.
-- Feature encoding and scaling are applied to prepare data for linear regression analysis.
